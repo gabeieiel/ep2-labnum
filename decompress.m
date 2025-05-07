@@ -113,7 +113,7 @@ function [] = decompress(compressed_image, method, k, h)
                     M(3, 4) = dxdy(i+1, j+2, ch);
                     M(4, 4) = dxdy(i+2, j+2, ch);
 
-                    A = B_inv * M * (B_inv');
+                    A = B_inv * M * (B_inv);
                     % Iterando sobre os pixels do quadrado, inclui todas as arestas
                     for di = 0:k+1
                         for dj = 0:k+1

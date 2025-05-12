@@ -35,4 +35,4 @@ function erro_calculado = calculateError(originalImg, decompressedImg)
 
     erro_calculado = erro_aux/canais;
 
-endfunction
+endfunction 

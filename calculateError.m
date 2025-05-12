@@ -10,16 +10,16 @@ function erro_calculado = calculateError(originalImg, decompressedImg)
     p           =   linhas;     % lado do quadrado da imagem
     erro_aux    =   0;
 
-    for k = 1:canais
+    for c = 1:canais
 
         somatorio   =   0;
         err_canal   =   0;
 
-        for i = 1:linhas
+        for i = 1:p
 
-            for j = 1:cols
+            for j = 1:p
             
-            somatorio = somatorio + (og(i, j, k) - dcp(i, j, k))^2;      % somatório dos erros das duas imagens
+            somatorio = somatorio + (og(i, j, c) - dcp(i, j, c))^2;      % somatório dos erros das duas imagens
             
             endfor
 

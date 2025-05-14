@@ -120,6 +120,10 @@ function [] = decompress(compressed_image, method, k, h)
         endfor
     endfor
 
-    imwrite(decmp_img, "saida.png");
+    if (method == 1)
+        imwrite(decmp_img, "saida1.png");
+    else
+        imwrite(decmp_img, "saida2.png");
+    endif
 
 endfunction

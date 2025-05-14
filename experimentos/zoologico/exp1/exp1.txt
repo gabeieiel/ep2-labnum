@@ -1,0 +1,12 @@
+Experimento para responder as 2 primeiras perguntas
+
+Gerado com funcao 1, greyscale = 1, h = 0.1               | zgray.png
+Comprimido com k = 2 e descomprimido com h = 0.4 (h real) | comprimida-zgray.png
+Erro metodo 1:0.993445 | saida(1-zgray.png)
+Erro metodo 2:2.07464  | saida(2-zgray.png)
+
+Gerado com funcao 1, greyscale = 0, h = 0.1               | zcolor.png
+Comprimido com k = 2 e descomprimido com h = 0.4 (h real) | comprimida-zcolor.png
+Erro metodo 1:0.970897 | saida(1-zcolor.png)
+Erro metodo 2:2.21734  | saida(2-zcolor.png)
+

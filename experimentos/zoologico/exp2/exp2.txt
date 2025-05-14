@@ -1,0 +1,28 @@
+Experimento para responder as perguntas 3 e 4
+
+Funcoes C2
+
+Gerado com funcao 1, greyscale = 0, h = 0.2             | z1.png
+Comprimido com k = 4 e descomprimido com h = 1 (h real) | comprimida-z1.png
+Erro metodo 1:8.71626 | saida(1-z1).png
+Erro metodo 2:10.8099 | saida(2-z1).png
+
+Gerado com funcao 2, greyscale = 0, h = 1               | z2.png
+Comprimido com k = 4 e descomprimido com h = 5 (h real) | comprimida-z2.png
+Erro metodo 1:0.300643 | saida(1-z2).png
+Erro metodo 2:0.746284 | saida(2-z2).png
+
+
+Funcoes nao C2
+
+Gerado com funcao 3, greyscale = 0, h = 1               | z3.png
+Comprimido com k = 4 e descomprimido com h = 5 (h real) | comprimida-z3.png
+Erro metodo 1:50.601  | saida(1-z3).png
+Erro metodo 2:51.9895 | saida(2-z3).png
+
+Gerado com funcao 4, greyscale = 0, h = 0.1               | z4.png
+Comprimido com k = 4 e descomprimido com h = 0.5 (h real) | comprimida-z4.png
+Erro metodo 1:0.770426 | saida(1-z4).png
+Erro metodo 2:1.11136  | saida(2-z4).png
+
+

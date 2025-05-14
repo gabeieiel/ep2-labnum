@@ -5,7 +5,7 @@ function [] = decompress(compressed_image, method, k, h)
     n = cmp_a; % como imagem e quadrada, cmp_a = cmp_l
     p = n + (n-1)*k; % (k+1)(n-1)+1
     decmp_img = zeros(p, p, c, 'uint8');
-    hIk = h/k;
+    hIk = h/(k+1);
 
     B = zeros(4, 4, 'single');
 

@@ -1,0 +1,18 @@
+Para responder pergunta 5
+
+ToyWatong.png 
+Comprimido com k = 2
+
+Descomprimido com k = 2, h = 1
+Erro metodo 1:9.61775 | s(1-1).png
+Erro metodo 2:9.80288 | s(2-1).png
+
+Descomprimido com k = 2, h = 100000
+Erro metodo 1:9.61775 | s(1-10).png
+Erro metodo 2:9.62917 | s(2-10).png
+
+Descomprimido com k = 2, h = 0.00001
+Erro metodo 1:9.61775 | s(1-01).png
+Erro metodo 2:9.62916 | s(2-01).png
+
+

@@ -1,0 +1,13 @@
+Experimento para responder a pergunta 7
+
+Gerado com funcao 2, greyscale = 0, h = 3 | zoo.png
+
+Descomprimindo 1 vez com k = 7:
+Erro metodo 1:0.398383
+Erro metodo 2:0.907836
+
+Descomprimindo 3 vezes com k = 1:
+Erro metodo 1:0.612658
+Erro metodo 2:0.614594
+
+Nao salvei os output, pq eh tudo igual, e nao sei explicar pq isso acontece

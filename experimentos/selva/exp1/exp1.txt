@@ -1,0 +1,11 @@
+Experimento para responder as 2 primeiras perguntas
+
+gravata_gray.png
+Comprimido com k = 2 e descomprimido com h = 0.1 | comprimida-gray.png
+Erro metodo 1:4.57381 | saida(1-g).png
+Erro metodo 2:4.5446  | saida(2-g).png
+
+gravata.png
+Comprimido com k = 2 e descomprimido com h = 0.1 | comprimida-color.png
+Erro metodo 1:4.60173 | saida(1-c).png
+Erro metodo 2:4.57712 | saida(2-c).png

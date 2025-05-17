@@ -1,0 +1,3 @@
+assim como discutido na secao zoologico o erro bla bla bla
+como observado nos experimentos acima (anteriores) o erro aumenta conforme cresce o grau de 
+compressao da imagem (k), a sua complexidade de detalhe (a exemplo saida exp2/saida(X-z3).png) e bla bla bla plin plin plan

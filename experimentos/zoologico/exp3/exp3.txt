@@ -7,5 +7,5 @@ Erro metodo 1:0.31241  | saida(1-zc.png)
 Erro metodo 2:0.562137 | saida(2-zc.png)
 
 Comprimido com k = 5 e descomprimido com h = 3000 (h errado) | comprimida.png
-Erro metodo 1:0.312392 | saida(1-ze.png)
-Erro metodo 2:0.524781  | saida(2-ze.png)
+Erro metodo 1:0.312461 | saida(1-ze.png)
+Erro metodo 2:0.524879  | saida(2-ze.png)

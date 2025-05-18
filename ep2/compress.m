@@ -1,5 +1,5 @@
 %Guilherme Kuhlkamp Gulka | NUSP: 15456984
-%Gabriel Ferreira dos Santos Esteves | NUSP:
+%Gabriel Ferreira dos Santos Esteves | NUSP: 15453240
 %EP2
 
 function [] = compress(original_image, k)
